@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArbolesAndroid</string>
+    <string name="titulo">Arboles</string>
+    <string name="preorden">PreOrden</string>
+    <string name="inorden">InOrden</string>
+    <string name="postorden">PostOrden</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="fabhs">TODO</string>
+</resources>

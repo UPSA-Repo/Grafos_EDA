@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Grafos</string>
+    <string name="title">Grafos</string>
+    <string name="btnIngresarGrafo">Insertar</string>
+    <string name="btnMostrarGrafo">Mostrar</string>
+    <string name="btnExisteCamino">Existe camino</string>
+    <string name="btnCantidadCaminos">Caminos</string>
+    <string name="btnEsConexo">Es conexo</string>
+    <string name="btnPeso">Peso</string>
+    <string name="btnDFS">DFS</string>
+    <string name="btnBFS">BFS</string>
+    <string name="btnExamen">Examen</string>
+    <string name="btnArcoMayor">Arco mayor</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="hintNodoOrigen">Nodo inicial</string>
+    <string name="hintNodoDestino">Nodo final</string>
+</resources>
